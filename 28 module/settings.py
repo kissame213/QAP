@@ -2,7 +2,7 @@ class Settings:
     chrome_driver = "/tests/chromedriver.exe"
 
     base_url = 'https://b2c.passport.rt.ru'
-    valid_email = 'lo****@gmail.com'
+    valid_email = 'lo****@mail.ru'
     valid_password = 'BiTj2vWpJ.cK2.N'
     valid_email_reg = 'Ввести валидный email'
     invalid_email = 'incorrect@mmail.ru'
@@ -17,7 +17,7 @@ class Settings:
     last_name_ = '-'
     russian_generate_string = 'л'
     latin_generate_string = 'incorrect'
-    chinese_chars = '形聲字象形字形声字/'
+    chinese_chars = '象形字形声字/'
     special_chars = '()_+=/{}!@#$%^&*'
     numbers = 845
     empty = ''
