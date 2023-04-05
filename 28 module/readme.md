@@ -1,6 +1,6 @@
-Rostelecom website testing, testing object https://b2c.passport.rt.ru/ page.
-
 Итоговая практическая работа по автоматизации тестирования. 
+
+Объект для тестирования: https://b2c.passport.rt.ru/ 
 
 Задания по тестированию раздела:
 
